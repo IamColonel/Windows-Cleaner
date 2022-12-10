@@ -1,5 +1,3 @@
-rem This script was written by Tarik Seyceri - Published in 2018
-rem email: tarik@seyceri.info
 cls
 
 @echo off
